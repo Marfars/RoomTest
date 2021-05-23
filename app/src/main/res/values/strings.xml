@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomTest</string>
+    <string name="text_insert_special_data">插入所有字段</string>
+    <string name="text_update_name_with_room">给Name字段加个QAQ(ROOM API)</string>
+    <string name="text_show_data_default_tip">暂未执行任何操作</string>
+    <string name="text_insert_name_field">仅插入Name字段</string>
+    <string name="text_update_name_with_sql">给Name字段加个QAQ(SQL)</string>
+</resources>

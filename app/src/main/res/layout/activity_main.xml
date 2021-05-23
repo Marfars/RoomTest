@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".ui.MainActivity">
+
+    <Button
+        android:id="@+id/btnInsertAllFieldsData"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="@string/text_insert_special_data"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btnInsertNameField"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="@string/text_insert_name_field"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btnUpdateNameWithRoomApi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="@string/text_update_name_with_room"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btnUpdateNameWithSQL"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="@string/text_update_name_with_sql"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tvShowResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="@string/text_show_data_default_tip"
+        android:textSize="18sp" />
+</LinearLayout>
