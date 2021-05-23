@@ -1,0 +1,6 @@
+
+K
+java:S1068".Remove this unused "repository" private field.(áµÔ8¦Èä•™/
+j	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Øì©8ë™Ì—™/
+>
+java:S1170"!Make this final field static too.(¿Øì©8ä»Ì—™/

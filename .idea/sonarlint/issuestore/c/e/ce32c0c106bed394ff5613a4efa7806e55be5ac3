@@ -1,0 +1,10 @@
+
+}
+java:S1450"[Remove the "tvInsertData" field and declare it as a local variable in the relevant methods.(‚îÔÉûÿÿÿÿ8²ÄÏ•™/
+c
+java:S1068"ARemove this unused "tvShowDatabaseOperationResult" private field.(Ú¡……üÿÿÿÿ8×ÏË•™/
+Ž
+java:S1450"lRemove the "tvShowDatabaseOperationResult" field and declare it as a local variable in the relevant methods.(Ú¡……üÿÿÿÿ8²ÄÏ•™/
+x
+java:S1450"[Remove the "tvUpdateData" field and declare it as a local variable in the relevant methods.(±ßÿ¹8²ÄÏ•™/
+Q	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±Ž
